@@ -1,0 +1,183 @@
+2024-09-05 04:16:04,013 Worker rq:worker:131cb7002b2440008f58f633bad8646b started with PID 38174, version 1.14.1
+2024-09-05 04:16:04,013 Subscribing to channel rq:pubsub:131cb7002b2440008f58f633bad8646b
+2024-09-05 04:16:04,020 *** Listening on home-ubuntu-hrms-bench:short, home-ubuntu-hrms-bench:default, home-ubuntu-hrms-bench:long...
+2024-09-05 04:16:04,023 Cleaning registries for queue: home-ubuntu-hrms-bench:short
+2024-09-05 04:16:04,029 Cleaning registries for queue: home-ubuntu-hrms-bench:default
+2024-09-05 04:16:04,034 Cleaning registries for queue: home-ubuntu-hrms-bench:long
+2024-09-05 04:34:51,870 Worker 131cb7002b2440008f58f633bad8646b [PID 38174]: warm shut down requested
+2024-09-05 04:34:51,881 Unsubscribing from channel rq:pubsub:131cb7002b2440008f58f633bad8646b
+2024-09-05 04:40:23,862 Worker rq:worker:a72736f28e8c4d3daafffc5e96c8d331 started with PID 39050, version 1.14.1
+2024-09-05 04:40:23,862 Subscribing to channel rq:pubsub:a72736f28e8c4d3daafffc5e96c8d331
+2024-09-05 04:40:23,869 *** Listening on home-ubuntu-hrms-bench:short, home-ubuntu-hrms-bench:default, home-ubuntu-hrms-bench:long...
+2024-09-05 04:40:23,872 Cleaning registries for queue: home-ubuntu-hrms-bench:short
+2024-09-05 04:40:23,878 Cleaning registries for queue: home-ubuntu-hrms-bench:default
+2024-09-05 04:40:23,883 Cleaning registries for queue: home-ubuntu-hrms-bench:long
+2024-09-05 05:07:24,108 Cleaning registries for queue: home-ubuntu-hrms-bench:short
+2024-09-05 05:07:24,110 Cleaning registries for queue: home-ubuntu-hrms-bench:default
+2024-09-05 05:07:24,111 Cleaning registries for queue: home-ubuntu-hrms-bench:long
+2024-09-05 05:25:25,996 Worker rq:worker:823edb75e5a9432f9266e00f9e137e23 started with PID 40757, version 1.14.1
+2024-09-05 05:25:25,996 Subscribing to channel rq:pubsub:823edb75e5a9432f9266e00f9e137e23
+2024-09-05 05:25:26,003 *** Listening on home-ubuntu-hrms-bench:short, home-ubuntu-hrms-bench:default, home-ubuntu-hrms-bench:long...
+2024-09-05 05:25:26,007 Cleaning registries for queue: home-ubuntu-hrms-bench:short
+2024-09-05 05:25:26,016 Cleaning registries for queue: home-ubuntu-hrms-bench:default
+2024-09-05 05:25:26,021 Cleaning registries for queue: home-ubuntu-hrms-bench:long
+2024-09-05 05:25:27,002 Worker 823edb75e5a9432f9266e00f9e137e23 [PID 40757]: warm shut down requested
+2024-09-05 05:25:27,005 Unsubscribing from channel rq:pubsub:823edb75e5a9432f9266e00f9e137e23
+2024-09-05 05:26:21,660 Worker rq:worker:56cee209f62247a8bc45f67ee6f20493 started with PID 40864, version 1.14.1
+2024-09-05 05:26:21,660 Subscribing to channel rq:pubsub:56cee209f62247a8bc45f67ee6f20493
+2024-09-05 05:26:21,661 *** Listening on home-ubuntu-hrms-bench:short, home-ubuntu-hrms-bench:default, home-ubuntu-hrms-bench:long...
+2024-09-05 06:16:07,888 Worker rq:worker:dfc0b80f079f4672a3c5f8b8697c4972 started with PID 1299, version 1.14.1
+2024-09-05 06:16:07,889 Subscribing to channel rq:pubsub:dfc0b80f079f4672a3c5f8b8697c4972
+2024-09-05 06:16:07,891 *** Listening on home-ubuntu-hrms-bench:short, home-ubuntu-hrms-bench:default, home-ubuntu-hrms-bench:long...
+2024-09-05 06:16:07,891 Cleaning registries for queue: home-ubuntu-hrms-bench:short
+2024-09-05 06:16:07,893 Cleaning registries for queue: home-ubuntu-hrms-bench:default
+2024-09-05 06:16:07,893 Cleaning registries for queue: home-ubuntu-hrms-bench:long
+2024-09-05 06:34:49,663 Worker dfc0b80f079f4672a3c5f8b8697c4972 [PID 1299]: warm shut down requested
+2024-09-05 06:34:49,677 Unsubscribing from channel rq:pubsub:dfc0b80f079f4672a3c5f8b8697c4972
+2024-09-05 06:48:21,223 Worker rq:worker:8ce27b6c193240b9bef942fcbb6d59a5 started with PID 2961, version 1.14.1
+2024-09-05 06:48:21,233 Subscribing to channel rq:pubsub:8ce27b6c193240b9bef942fcbb6d59a5
+2024-09-05 06:48:21,245 *** Listening on home-ubuntu-hrms-bench:short, home-ubuntu-hrms-bench:default, home-ubuntu-hrms-bench:long...
+2024-09-05 06:48:21,248 Cleaning registries for queue: home-ubuntu-hrms-bench:short
+2024-09-05 06:48:21,255 Cleaning registries for queue: home-ubuntu-hrms-bench:default
+2024-09-05 06:48:21,259 Cleaning registries for queue: home-ubuntu-hrms-bench:long
+2024-09-05 07:15:21,462 Cleaning registries for queue: home-ubuntu-hrms-bench:short
+2024-09-05 07:15:21,464 Cleaning registries for queue: home-ubuntu-hrms-bench:default
+2024-09-05 07:15:21,465 Cleaning registries for queue: home-ubuntu-hrms-bench:long
+2024-09-05 07:40:09,670 Worker 8ce27b6c193240b9bef942fcbb6d59a5 [PID 2961]: warm shut down requested
+2024-09-05 07:40:15,417 Worker rq:worker:891826664c68438fab14502a37c8cdf4 started with PID 5359, version 1.14.1
+2024-09-05 07:40:15,417 Subscribing to channel rq:pubsub:891826664c68438fab14502a37c8cdf4
+2024-09-05 07:40:15,417 *** Listening on home-ubuntu-hrms-bench:short, home-ubuntu-hrms-bench:default, home-ubuntu-hrms-bench:long...
+2024-09-05 07:40:15,418 Cleaning registries for queue: home-ubuntu-hrms-bench:short
+2024-09-05 07:40:15,419 Cleaning registries for queue: home-ubuntu-hrms-bench:default
+2024-09-05 07:40:15,419 Cleaning registries for queue: home-ubuntu-hrms-bench:long
+2024-09-05 08:02:26,641 home-ubuntu-hrms-bench:long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='<function build_index_for_all_routes at 0x7fae1fe62170>', kwargs={}, method=<function build_index_for_all_routes at 0x7fae1fe62170>, site='hrms5', user='Administrator') (6c4d6ee5-ca26-4883-a41b-2c444d55f200)
+Retrieving Routes                   : [=                                       ] 3%Retrieving Routes                   : [==                                      ] 6%Retrieving Routes                   : [====                                    ] 10%Retrieving Routes                   : [=====                                   ] 13%Retrieving Routes                   : [======                                  ] 16%Retrieving Routes                   : [========                                ] 20%Retrieving Routes                   : [=========                               ] 23%Retrieving Routes                   : [==========                              ] 26%Retrieving Routes                   : [============                            ] 30%Retrieving Routes                   : [=============                           ] 33%Retrieving Routes                   : [==============                          ] 36%Retrieving Routes                   : [================                        ] 40%Retrieving Routes                   : [=================                       ] 43%Retrieving Routes                   : [==================                      ] 46%Retrieving Routes                   : [====================                    ] 50%Retrieving Routes                   : [=====================                   ] 53%Retrieving Routes                   : [======================                  ] 56%Retrieving Routes                   : [========================                ] 60%Retrieving Routes                   : [=========================               ] 63%Retrieving Routes                   : [==========================              ] 66%Retrieving Routes                   : [============================            ] 70%Retrieving Routes                   : [=============================           ] 73%Retrieving Routes                   : [==============================          ] 76%Retrieving Routes                   : [================================        ] 80%Retrieving Routes                   : [=================================       ] 83%Retrieving Routes                   : [==================================      ] 86%Retrieving Routes                   : [====================================    ] 90%Retrieving Routes                   : [=====================================   ] 93%Retrieving Routes                   : [======================================  ] 96%Retrieving Routes                   : [========================================] 100%
+Building Index                      : [=                                       ] 3%Building Index                      : [==                                      ] 6%Building Index                      : [====                                    ] 10%Building Index                      : [=====                                   ] 13%Building Index                      : [======                                  ] 16%Building Index                      : [========                                ] 20%Building Index                      : [=========                               ] 23%Building Index                      : [==========                              ] 26%Building Index                      : [============                            ] 30%Building Index                      : [=============                           ] 33%Building Index                      : [==============                          ] 36%Building Index                      : [================                        ] 40%Building Index                      : [=================                       ] 43%Building Index                      : [==================                      ] 46%Building Index                      : [====================                    ] 50%Building Index                      : [=====================                   ] 53%Building Index                      : [======================                  ] 56%Building Index                      : [========================                ] 60%Building Index                      : [=========================               ] 63%Building Index                      : [==========================              ] 66%Building Index                      : [============================            ] 70%Building Index                      : [=============================           ] 73%Building Index                      : [==============================          ] 76%Building Index                      : [================================        ] 80%Building Index                      : [=================================       ] 83%Building Index                      : [==================================      ] 86%Building Index                      : [====================================    ] 90%Building Index                      : [=====================================   ] 93%Building Index                      : [======================================  ] 96%Building Index                      : [========================================] 100%2024-09-05 08:03:46,170 home-ubuntu-hrms-bench:long: Job OK (6c4d6ee5-ca26-4883-a41b-2c444d55f200)
+2024-09-05 08:03:46,170 Result is kept for 600 seconds
+2024-09-05 08:03:46,333 Cleaning registries for queue: home-ubuntu-hrms-bench:short
+2024-09-05 08:03:46,333 Cleaning registries for queue: home-ubuntu-hrms-bench:default
+2024-09-05 08:03:46,407 Cleaning registries for queue: home-ubuntu-hrms-bench:long
+2024-09-05 08:05:03,444 Worker 891826664c68438fab14502a37c8cdf4 [PID 5359]: warm shut down requested
+2024-09-05 08:08:26,547 Worker rq:worker:8e7f77d19e57423e845e8391f094145d started with PID 6509, version 1.14.1
+2024-09-05 08:08:26,547 Subscribing to channel rq:pubsub:8e7f77d19e57423e845e8391f094145d
+2024-09-05 08:08:26,548 *** Listening on home-ubuntu-hrms-bench:short, home-ubuntu-hrms-bench:default, home-ubuntu-hrms-bench:long...
+2024-09-05 08:21:56,679 Cleaning registries for queue: home-ubuntu-hrms-bench:short
+2024-09-05 08:21:56,680 Cleaning registries for queue: home-ubuntu-hrms-bench:default
+2024-09-05 08:21:56,680 Cleaning registries for queue: home-ubuntu-hrms-bench:long
+2024-09-05 08:24:31,758 Worker 8e7f77d19e57423e845e8391f094145d [PID 6509]: warm shut down requested
+2024-09-05 08:24:31,777 Unsubscribing from channel rq:pubsub:8e7f77d19e57423e845e8391f094145d
+2024-09-05 08:25:56,101 Worker rq:worker:b166610689fa4083a3369396291d92ce started with PID 7163, version 1.14.1
+2024-09-05 08:25:56,102 Subscribing to channel rq:pubsub:b166610689fa4083a3369396291d92ce
+2024-09-05 08:25:56,124 *** Listening on home-ubuntu-hrms-bench:short, home-ubuntu-hrms-bench:default, home-ubuntu-hrms-bench:long...
+2024-09-05 08:39:26,288 Cleaning registries for queue: home-ubuntu-hrms-bench:short
+2024-09-05 08:39:26,289 Cleaning registries for queue: home-ubuntu-hrms-bench:default
+2024-09-05 08:39:26,289 Cleaning registries for queue: home-ubuntu-hrms-bench:long
+2024-09-05 09:06:26,505 Cleaning registries for queue: home-ubuntu-hrms-bench:short
+2024-09-05 09:06:26,505 Cleaning registries for queue: home-ubuntu-hrms-bench:default
+2024-09-05 09:06:26,506 Cleaning registries for queue: home-ubuntu-hrms-bench:long
+2024-09-05 09:33:26,722 Cleaning registries for queue: home-ubuntu-hrms-bench:short
+2024-09-05 09:33:26,722 Cleaning registries for queue: home-ubuntu-hrms-bench:default
+2024-09-05 09:33:26,723 Cleaning registries for queue: home-ubuntu-hrms-bench:long
+2024-09-05 09:44:36,605 Worker b166610689fa4083a3369396291d92ce [PID 7163]: warm shut down requested
+2024-09-05 09:44:36,611 Unsubscribing from channel rq:pubsub:b166610689fa4083a3369396291d92ce
+2024-09-05 09:52:09,553 Worker rq:worker:00030fdb4c844539b1a2e213987ff9ff started with PID 10433, version 1.14.1
+2024-09-05 09:52:09,554 Subscribing to channel rq:pubsub:00030fdb4c844539b1a2e213987ff9ff
+2024-09-05 09:52:09,564 *** Listening on home-ubuntu-hrms-bench:short, home-ubuntu-hrms-bench:default, home-ubuntu-hrms-bench:long...
+2024-09-05 09:52:09,568 Cleaning registries for queue: home-ubuntu-hrms-bench:short
+2024-09-05 09:52:09,575 Cleaning registries for queue: home-ubuntu-hrms-bench:default
+2024-09-05 09:52:09,581 Cleaning registries for queue: home-ubuntu-hrms-bench:long
+2024-09-05 10:19:09,741 Cleaning registries for queue: home-ubuntu-hrms-bench:short
+2024-09-05 10:19:09,743 Cleaning registries for queue: home-ubuntu-hrms-bench:default
+2024-09-05 10:19:09,744 Cleaning registries for queue: home-ubuntu-hrms-bench:long
+2024-09-05 10:46:09,932 Cleaning registries for queue: home-ubuntu-hrms-bench:short
+2024-09-05 10:46:09,933 Cleaning registries for queue: home-ubuntu-hrms-bench:default
+2024-09-05 10:46:09,933 Cleaning registries for queue: home-ubuntu-hrms-bench:long
+2024-09-05 10:53:24,728 Worker rq:worker:4192b643bfc54bdaa6ec6c223309393a started with PID 12615, version 1.14.1
+2024-09-05 10:53:24,728 Subscribing to channel rq:pubsub:4192b643bfc54bdaa6ec6c223309393a
+2024-09-05 10:53:24,745 *** Listening on home-ubuntu-hrms-bench:short, home-ubuntu-hrms-bench:default, home-ubuntu-hrms-bench:long...
+2024-09-05 10:53:25,560 Worker 4192b643bfc54bdaa6ec6c223309393a [PID 12615]: warm shut down requested
+2024-09-05 10:53:25,567 Unsubscribing from channel rq:pubsub:4192b643bfc54bdaa6ec6c223309393a
+2024-09-05 10:59:30,019 Worker rq:worker:1549027cd2a148d99c3abecc636ce373 started with PID 12877, version 1.14.1
+2024-09-05 10:59:30,020 Subscribing to channel rq:pubsub:1549027cd2a148d99c3abecc636ce373
+2024-09-05 10:59:30,097 *** Listening on home-ubuntu-hrms-bench:short, home-ubuntu-hrms-bench:default, home-ubuntu-hrms-bench:long...
+2024-09-05 11:13:00,349 Cleaning registries for queue: home-ubuntu-hrms-bench:short
+2024-09-05 11:13:00,353 Cleaning registries for queue: home-ubuntu-hrms-bench:default
+2024-09-05 11:13:00,354 Cleaning registries for queue: home-ubuntu-hrms-bench:long
+2024-09-05 11:40:00,611 Cleaning registries for queue: home-ubuntu-hrms-bench:short
+2024-09-05 11:40:00,621 Cleaning registries for queue: home-ubuntu-hrms-bench:default
+2024-09-05 11:40:00,622 Cleaning registries for queue: home-ubuntu-hrms-bench:long
+2024-09-05 12:07:09,133 Cleaning registries for queue: home-ubuntu-hrms-bench:short
+2024-09-05 12:07:28,735 Cleaning registries for queue: home-ubuntu-hrms-bench:default
+2024-09-05 12:07:33,850 Cleaning registries for queue: home-ubuntu-hrms-bench:long
+2024-09-05 12:35:55,849 Cleaning registries for queue: home-ubuntu-hrms-bench:short
+2024-09-05 12:36:22,093 Cleaning registries for queue: home-ubuntu-hrms-bench:default
+2024-09-05 12:36:44,087 Cleaning registries for queue: home-ubuntu-hrms-bench:long
+2024-09-05 12:52:00,890 Cleaning registries for queue: home-ubuntu-hrms-bench:short
+2024-09-05 12:52:00,894 Cleaning registries for queue: home-ubuntu-hrms-bench:default
+2024-09-05 12:52:00,895 Cleaning registries for queue: home-ubuntu-hrms-bench:long
+2024-09-06 04:24:22,385 Worker rq:worker:d3cca37e57fa465bbd9a4e39cd1f4e46 started with PID 18624, version 1.14.1
+2024-09-06 04:24:22,387 Subscribing to channel rq:pubsub:d3cca37e57fa465bbd9a4e39cd1f4e46
+2024-09-06 04:24:22,393 *** Listening on home-ubuntu-hrms-bench:short, home-ubuntu-hrms-bench:default, home-ubuntu-hrms-bench:long...
+2024-09-06 04:24:22,406 Cleaning registries for queue: home-ubuntu-hrms-bench:short
+2024-09-06 04:24:22,414 Cleaning registries for queue: home-ubuntu-hrms-bench:default
+2024-09-06 04:24:22,420 Cleaning registries for queue: home-ubuntu-hrms-bench:long
+2024-09-06 04:51:22,702 Cleaning registries for queue: home-ubuntu-hrms-bench:short
+2024-09-06 04:51:22,707 Cleaning registries for queue: home-ubuntu-hrms-bench:default
+2024-09-06 04:51:22,708 Cleaning registries for queue: home-ubuntu-hrms-bench:long
+2024-09-06 05:13:41,783 Worker d3cca37e57fa465bbd9a4e39cd1f4e46 [PID 18624]: warm shut down requested
+2024-09-06 05:13:41,791 Unsubscribing from channel rq:pubsub:d3cca37e57fa465bbd9a4e39cd1f4e46
+2024-09-06 05:13:48,079 Worker rq:worker:6fe1985889114b768989ff070e96df70 started with PID 20527, version 1.14.1
+2024-09-06 05:13:48,079 Subscribing to channel rq:pubsub:6fe1985889114b768989ff070e96df70
+2024-09-06 05:13:48,081 *** Listening on home-ubuntu-hrms-bench:short, home-ubuntu-hrms-bench:default, home-ubuntu-hrms-bench:long...
+2024-09-06 05:13:48,081 Cleaning registries for queue: home-ubuntu-hrms-bench:short
+2024-09-06 05:13:48,083 Cleaning registries for queue: home-ubuntu-hrms-bench:default
+2024-09-06 05:13:48,084 Cleaning registries for queue: home-ubuntu-hrms-bench:long
+2024-09-06 05:40:48,329 Cleaning registries for queue: home-ubuntu-hrms-bench:short
+2024-09-06 05:40:48,332 Cleaning registries for queue: home-ubuntu-hrms-bench:default
+2024-09-06 05:40:48,333 Cleaning registries for queue: home-ubuntu-hrms-bench:long
+2024-09-06 06:07:48,609 Cleaning registries for queue: home-ubuntu-hrms-bench:short
+2024-09-06 06:07:48,611 Cleaning registries for queue: home-ubuntu-hrms-bench:default
+2024-09-06 06:07:48,611 Cleaning registries for queue: home-ubuntu-hrms-bench:long
+2024-09-06 06:34:48,805 Cleaning registries for queue: home-ubuntu-hrms-bench:short
+2024-09-06 06:34:48,806 Cleaning registries for queue: home-ubuntu-hrms-bench:default
+2024-09-06 06:34:48,806 Cleaning registries for queue: home-ubuntu-hrms-bench:long
+2024-09-06 06:50:57,980 Worker rq:worker:67bc251d8f3348bdb1bba47dc029581f started with PID 24029, version 1.14.1
+2024-09-06 06:50:57,980 Subscribing to channel rq:pubsub:67bc251d8f3348bdb1bba47dc029581f
+2024-09-06 06:50:58,007 *** Listening on home-ubuntu-hrms-bench:short, home-ubuntu-hrms-bench:default, home-ubuntu-hrms-bench:long...
+2024-09-06 06:50:58,016 Cleaning registries for queue: home-ubuntu-hrms-bench:short
+2024-09-06 06:50:58,033 Cleaning registries for queue: home-ubuntu-hrms-bench:default
+2024-09-06 06:50:58,045 Cleaning registries for queue: home-ubuntu-hrms-bench:long
+2024-09-06 06:50:58,913 Worker 67bc251d8f3348bdb1bba47dc029581f [PID 24029]: warm shut down requested
+2024-09-06 06:50:58,915 Unsubscribing from channel rq:pubsub:67bc251d8f3348bdb1bba47dc029581f
+2024-09-06 06:52:25,684 Worker rq:worker:bd6c2e45d7324bb4ac445b21656749b2 started with PID 24144, version 1.14.1
+2024-09-06 06:52:25,684 Subscribing to channel rq:pubsub:bd6c2e45d7324bb4ac445b21656749b2
+2024-09-06 06:52:25,696 *** Listening on home-ubuntu-hrms-bench:short, home-ubuntu-hrms-bench:default, home-ubuntu-hrms-bench:long...
+2024-09-06 06:52:26,050 Worker bd6c2e45d7324bb4ac445b21656749b2 [PID 24144]: warm shut down requested
+2024-09-06 06:52:26,059 Unsubscribing from channel rq:pubsub:bd6c2e45d7324bb4ac445b21656749b2
+2024-09-06 06:57:06,432 Worker rq:worker:8775a4309cf741c9a38e3239b9f25c98 started with PID 24348, version 1.14.1
+2024-09-06 06:57:06,432 Subscribing to channel rq:pubsub:8775a4309cf741c9a38e3239b9f25c98
+2024-09-06 06:57:06,443 *** Listening on home-ubuntu-hrms-bench:short, home-ubuntu-hrms-bench:default, home-ubuntu-hrms-bench:long...
+2024-09-07 08:18:38,331 Worker rq:worker:9bc84f44c6fa415baa5c667f25a5772d started with PID 34604, version 1.14.1
+2024-09-07 08:18:38,334 Subscribing to channel rq:pubsub:9bc84f44c6fa415baa5c667f25a5772d
+2024-09-07 08:18:38,340 *** Listening on home-ubuntu-hrms-bench:short, home-ubuntu-hrms-bench:default, home-ubuntu-hrms-bench:long...
+2024-09-07 08:18:38,343 Cleaning registries for queue: home-ubuntu-hrms-bench:short
+2024-09-07 08:18:38,350 Cleaning registries for queue: home-ubuntu-hrms-bench:default
+2024-09-07 08:18:38,355 Cleaning registries for queue: home-ubuntu-hrms-bench:long
+2024-09-07 08:18:54,285 Worker 9bc84f44c6fa415baa5c667f25a5772d [PID 34604]: warm shut down requested
+2024-09-07 08:19:01,745 Worker rq:worker:5dad97e44ce24122b14e18a622b6c116 started with PID 34696, version 1.14.1
+2024-09-07 08:19:01,745 Subscribing to channel rq:pubsub:5dad97e44ce24122b14e18a622b6c116
+2024-09-07 08:19:01,755 *** Listening on home-ubuntu-hrms-bench:short, home-ubuntu-hrms-bench:default, home-ubuntu-hrms-bench:long...
+2024-09-07 08:34:08,372 home-ubuntu-hrms-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.user.user.create_contact', kwargs={'user': <User: nakul.bhardwaj@webninjaz.com>, 'ignore_mandatory': True}, method='frappe.core.doctype.user.user.create_contact', site='hrms5', user='Administrator') (7827ca69-43b3-480b-baa5-fe1bdcc95334)
+2024-09-07 08:34:10,223 home-ubuntu-hrms-bench:default: Job OK (7827ca69-43b3-480b-baa5-fe1bdcc95334)
+2024-09-07 08:34:10,223 Result is kept for 600 seconds
+2024-09-07 08:34:10,230 home-ubuntu-hrms-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.user.user.update_gravatar', kwargs={'name': 'nakul.bhardwaj@webninjaz.com'}, method='frappe.core.doctype.user.user.update_gravatar', site='hrms5', user='Administrator') (ae7b6cf9-e9bf-4380-820e-817e10c1181a)
+2024-09-07 08:34:10,560 home-ubuntu-hrms-bench:default: Job OK (ae7b6cf9-e9bf-4380-820e-817e10c1181a)
+2024-09-07 08:34:10,561 Result is kept for 600 seconds
+2024-09-07 08:34:10,565 home-ubuntu-hrms-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.user.user.create_contact', kwargs={'user': <User: nakul.bhardwaj@webninjaz.com>, 'ignore_mandatory': True}, method='frappe.core.doctype.user.user.create_contact', site='hrms5', user='Administrator') (93d7ff4a-2a46-495c-8390-d1172767a92b)
+2024-09-07 08:34:11,025 home-ubuntu-hrms-bench:default: Job OK (93d7ff4a-2a46-495c-8390-d1172767a92b)
+2024-09-07 08:34:11,025 Result is kept for 600 seconds
+2024-09-07 08:34:11,030 home-ubuntu-hrms-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.user.user.update_gravatar', kwargs={'name': 'nakul.bhardwaj@webninjaz.com'}, method='frappe.core.doctype.user.user.update_gravatar', site='hrms5', user='Administrator') (2a02113f-75c3-4d5c-b017-7275790b106d)
+2024-09-07 08:34:11,322 home-ubuntu-hrms-bench:default: Job OK (2a02113f-75c3-4d5c-b017-7275790b106d)
+2024-09-07 08:34:11,322 Result is kept for 600 seconds
+2024-09-07 08:45:05,251 Worker 5dad97e44ce24122b14e18a622b6c116 [PID 34696]: warm shut down requested
+2024-09-07 08:45:05,264 Unsubscribing from channel rq:pubsub:5dad97e44ce24122b14e18a622b6c116

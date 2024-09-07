@@ -1,0 +1,36 @@
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _4c031174444b6495 -p********** _4c031174444b6495 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./hrms5/private/backups/20240905_173020-hrms5-database.sql.gz
+
+Backup Summary for hrms5 at 2024-09-05 17:30:24.895647
+Config  : ./hrms5/private/backups/20240905_173020-hrms5-site_config_backup.json 127.0B
+Database: ./hrms5/private/backups/20240905_173020-hrms5-database.sql.gz         215.6KiB
+Backup for Site hrms5 has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _4c031174444b6495 -p********** _4c031174444b6495 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./hrms5/private/backups/20240906_053004-hrms5-database.sql.gz
+
+Backup Summary for hrms5 at 2024-09-06 05:30:05.478152
+Config  : ./hrms5/private/backups/20240906_053004-hrms5-site_config_backup.json 127.0B
+Database: ./hrms5/private/backups/20240906_053004-hrms5-database.sql.gz         215.6KiB
+Backup for Site hrms5 has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _4c031174444b6495 -p********** _4c031174444b6495 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./hrms5/private/backups/20240906_113003-hrms5-database.sql.gz
+
+Backup Summary for hrms5 at 2024-09-06 11:30:04.113368
+Config  : ./hrms5/private/backups/20240906_113003-hrms5-site_config_backup.json 170.0B
+Database: ./hrms5/private/backups/20240906_113003-hrms5-database.sql.gz         215.6KiB
+Backup for Site hrms5 has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _4c031174444b6495 -p********** _4c031174444b6495 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./hrms5/private/backups/20240906_233004-hrms5-database.sql.gz
+
+Backup Summary for hrms5 at 2024-09-06 23:30:05.647966
+Config  : ./hrms5/private/backups/20240906_233004-hrms5-site_config_backup.json 170.0B
+Database: ./hrms5/private/backups/20240906_233004-hrms5-database.sql.gz         215.6KiB
+Backup for Site hrms5 has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _4c031174444b6495 -p********** _4c031174444b6495 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./hrms5/private/backups/20240907_053004-hrms5-database.sql.gz
+
+Backup Summary for hrms5 at 2024-09-07 05:30:05.347391
+Config  : ./hrms5/private/backups/20240907_053004-hrms5-site_config_backup.json 170.0B
+Database: ./hrms5/private/backups/20240907_053004-hrms5-database.sql.gz         215.6KiB
+Backup for Site hrms5 has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _4c031174444b6495 -p********** _4c031174444b6495 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./hrms5/private/backups/20240907_113004-hrms5-database.sql.gz
+
+Backup Summary for hrms5 at 2024-09-07 11:30:05.256661
+Config  : ./hrms5/private/backups/20240907_113004-hrms5-site_config_backup.json 170.0B
+Database: ./hrms5/private/backups/20240907_113004-hrms5-database.sql.gz         215.6KiB
+Backup for Site hrms5 has been successfully completed

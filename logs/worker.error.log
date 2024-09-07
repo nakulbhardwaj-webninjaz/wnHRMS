@@ -1,0 +1,1609 @@
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+2024-09-05 05:24:24,126 Could not connect to Redis instance: Connection closed by server. Retrying in 1 seconds...
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/client.py", line 3718, in run
+    pubsub.get_message(ignore_subscribe_messages=True,
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/client.py", line 3617, in get_message
+    response = self.parse_response(block=False, timeout=timeout)
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/client.py", line 3503, in parse_response
+    if not block and not conn.can_read(timeout=timeout):
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/connection.py", line 734, in can_read
+    return self._parser.can_read(timeout)
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/connection.py", line 416, in can_read
+    return self.read_from_socket(timeout=timeout,
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/connection.py", line 429, in read_from_socket
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+redis.exceptions.ConnectionError: Connection closed by server.
+2024-09-05 05:24:25,132 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 2 seconds...
+2024-09-05 05:24:27,142 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 4 seconds...
+2024-09-05 05:24:31,164 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 8 seconds...
+2024-09-05 05:24:39,192 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 16 seconds...
+2024-09-05 05:24:55,271 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 32 seconds...
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+2024-09-05 05:25:27,372 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/client.py", line 3718, in run
+    pubsub.get_message(ignore_subscribe_messages=True,
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/client.py", line 3617, in get_message
+    response = self.parse_response(block=False, timeout=timeout)
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/client.py", line 3503, in parse_response
+    if not block and not conn.can_read(timeout=timeout):
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/connection.py", line 734, in can_read
+    return self._parser.can_read(timeout)
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/connection.py", line 416, in can_read
+    return self.read_from_socket(timeout=timeout,
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/connection.py", line 429, in read_from_socket
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+redis.exceptions.ConnectionError: Connection closed by server.
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+2024-09-05 07:38:49,732 Could not connect to Redis instance: Connection closed by server. Retrying in 1 seconds...
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/client.py", line 3718, in run
+    pubsub.get_message(ignore_subscribe_messages=True,
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/client.py", line 3617, in get_message
+    response = self.parse_response(block=False, timeout=timeout)
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/client.py", line 3503, in parse_response
+    if not block and not conn.can_read(timeout=timeout):
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/connection.py", line 734, in can_read
+    return self._parser.can_read(timeout)
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/connection.py", line 416, in can_read
+    return self.read_from_socket(timeout=timeout,
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/connection.py", line 429, in read_from_socket
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+redis.exceptions.ConnectionError: Connection closed by server.
+2024-09-05 07:38:50,736 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 2 seconds...
+2024-09-05 07:38:52,746 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 4 seconds...
+2024-09-05 07:38:56,760 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 8 seconds...
+2024-09-05 07:39:04,799 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 16 seconds...
+2024-09-05 07:39:20,878 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 32 seconds...
+2024-09-05 07:39:52,973 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+Traceback (most recent call last):
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/connection.py", line 559, in connect
+    sock = self._connect()
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/connection.py", line 615, in _connect
+    raise err
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/connection.py", line 603, in _connect
+    sock.connect(socket_address)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/home/ubuntu/hrms-bench/apps/frappe/frappe/utils/bench_helper.py", line 109, in <module>
+    main()
+  File "/home/ubuntu/hrms-bench/apps/frappe/frappe/utils/bench_helper.py", line 18, in main
+    click.Group(commands=commands)(prog_name="bench")
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/click/core.py", line 829, in __call__
+    return self.main(*args, **kwargs)
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/click/core.py", line 782, in main
+    rv = self.invoke(ctx)
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/click/core.py", line 1259, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/click/core.py", line 1259, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/click/core.py", line 1066, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/click/core.py", line 610, in invoke
+    return callback(*args, **kwargs)
+  File "/home/ubuntu/hrms-bench/apps/frappe/frappe/commands/scheduler.py", line 200, in start_worker
+    start_worker(
+  File "/home/ubuntu/hrms-bench/apps/frappe/frappe/utils/background_jobs.py", line 265, in start_worker
+    worker.work(
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/worker.py", line 434, in work
+    self.teardown()
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/worker.py", line 988, in teardown
+    self.register_death()
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/worker.py", line 774, in register_death
+    p.execute()
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/client.py", line 4012, in execute
+    conn = self.connection_pool.get_connection('MULTI',
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/connection.py", line 1192, in get_connection
+    connection.connect()
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/connection.py", line 563, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 111 connecting to 127.0.0.1:11002. Connection refused.
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:57: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/apps/frappe/frappe/utils/caching.py:57: DeprecationWarning: `frappe_last` argument is deprecated and will be removed in v15.
+  return_val = func(*args, **kwargs)
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:71: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/connection.py", line 427, in read_from_socket
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/client.py", line 3718, in run
+    bufflen = recv_into(self._sock, self._buffer)
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/_compat.py", line 75, in recv_into
+    return sock.recv_into(*args, **kwargs)
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/home/ubuntu/hrms-bench/apps/frappe/frappe/utils/bench_helper.py", line 109, in <module>
+    pubsub.get_message(ignore_subscribe_messages=True,
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/client.py", line 3617, in get_message
+    response = self.parse_response(block=False, timeout=timeout)
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/client.py", line 3503, in parse_response
+    if not block and not conn.can_read(timeout=timeout):
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/connection.py", line 734, in can_read
+    return self._parser.can_read(timeout)
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/connection.py", line 416, in can_read
+    return self.read_from_socket(timeout=timeout,
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/connection.py", line 429, in read_from_socket
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+redis.exceptions.ConnectionError: Connection closed by server.
+    main()
+  File "/home/ubuntu/hrms-bench/apps/frappe/frappe/utils/bench_helper.py", line 18, in main
+    click.Group(commands=commands)(prog_name="bench")
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/click/core.py", line 829, in __call__
+    return self.main(*args, **kwargs)
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/click/core.py", line 782, in main
+    rv = self.invoke(ctx)
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/click/core.py", line 1259, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/click/core.py", line 1259, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/click/core.py", line 1066, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/click/core.py", line 610, in invoke
+    return callback(*args, **kwargs)
+  File "/home/ubuntu/hrms-bench/apps/frappe/frappe/commands/scheduler.py", line 200, in start_worker
+    start_worker(
+  File "/home/ubuntu/hrms-bench/apps/frappe/frappe/utils/background_jobs.py", line 265, in start_worker
+    worker.work(
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/worker.py", line 434, in work
+    self.teardown()
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/worker.py", line 988, in teardown
+    self.register_death()
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/worker.py", line 774, in register_death
+    p.execute()
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/client.py", line 4019, in execute
+    return execute(conn, stack, raise_on_error)
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/client.py", line 3894, in _execute_transaction
+    self.parse_response(connection, '_')
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/client.py", line 3977, in parse_response
+    result = Redis.parse_response(
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/client.py", line 915, in parse_response
+    response = connection.read_response()
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/connection.py", line 739, in read_response
+    response = self._parser.read_response()
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/connection.py", line 470, in read_response
+    self.read_from_socket()
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/connection.py", line 452, in read_from_socket
+    raise ConnectionError("Error while reading from socket: %s" %
+redis.exceptions.ConnectionError: Error while reading from socket: (104, 'Connection reset by peer')
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/client.py", line 3718, in run
+    pubsub.get_message(ignore_subscribe_messages=True,
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/client.py", line 3617, in get_message
+    response = self.parse_response(block=False, timeout=timeout)
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/client.py", line 3503, in parse_response
+    if not block and not conn.can_read(timeout=timeout):
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/connection.py", line 734, in can_read
+    return self._parser.can_read(timeout)
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/connection.py", line 416, in can_read
+    return self.read_from_socket(timeout=timeout,
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/connection.py", line 429, in read_from_socket
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+redis.exceptions.ConnectionError: Connection closed by server.
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+2024-09-05 10:52:50,879 Could not connect to Redis instance: Connection closed by server. Retrying in 1 seconds...
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/client.py", line 3718, in run
+    pubsub.get_message(ignore_subscribe_messages=True,
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/client.py", line 3617, in get_message
+    response = self.parse_response(block=False, timeout=timeout)
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/client.py", line 3503, in parse_response
+    if not block and not conn.can_read(timeout=timeout):
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/connection.py", line 734, in can_read
+    return self._parser.can_read(timeout)
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/connection.py", line 416, in can_read
+    return self.read_from_socket(timeout=timeout,
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/connection.py", line 429, in read_from_socket
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+redis.exceptions.ConnectionError: Connection closed by server.
+2024-09-05 10:52:51,884 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 2 seconds...
+2024-09-05 10:52:53,891 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 4 seconds...
+2024-09-05 10:52:57,911 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 8 seconds...
+2024-09-05 10:53:05,937 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 16 seconds...
+2024-09-05 10:53:22,017 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 32 seconds...
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/client.py", line 3718, in run
+    pubsub.get_message(ignore_subscribe_messages=True,
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/client.py", line 3617, in get_message
+    response = self.parse_response(block=False, timeout=timeout)
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/client.py", line 3503, in parse_response
+    if not block and not conn.can_read(timeout=timeout):
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/connection.py", line 734, in can_read
+    return self._parser.can_read(timeout)
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/connection.py", line 416, in can_read
+    return self.read_from_socket(timeout=timeout,
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/connection.py", line 429, in read_from_socket
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+redis.exceptions.ConnectionError: Connection closed by server.
+2024-09-05 10:53:54,117 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 10:54:54,168 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 10:55:54,253 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 10:56:54,355 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 10:57:54,455 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 10:58:54,533 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+2024-09-05 12:59:23,734 Could not connect to Redis instance: Connection closed by server. Retrying in 1 seconds...
+2024-09-05 12:59:23,734 Could not connect to Redis instance: Connection closed by server. Retrying in 60 seconds...
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/client.py", line 3718, in run
+    pubsub.get_message(ignore_subscribe_messages=True,
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/client.py", line 3617, in get_message
+    response = self.parse_response(block=False, timeout=timeout)
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/client.py", line 3503, in parse_response
+    if not block and not conn.can_read(timeout=timeout):
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/connection.py", line 734, in can_read
+    return self._parser.can_read(timeout)
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/connection.py", line 416, in can_read
+    return self.read_from_socket(timeout=timeout,
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/connection.py", line 429, in read_from_socket
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+redis.exceptions.ConnectionError: Connection closed by server.
+2024-09-05 12:59:24,739 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 2 seconds...
+2024-09-05 12:59:26,750 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 4 seconds...
+2024-09-05 12:59:30,888 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 8 seconds...
+2024-09-05 12:59:39,044 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 16 seconds...
+2024-09-05 12:59:55,137 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 32 seconds...
+2024-09-05 13:00:24,021 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:00:27,922 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:01:27,767 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:01:29,685 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:02:32,654 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:02:35,214 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:03:33,043 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:03:36,110 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:04:33,201 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:04:36,241 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:05:33,371 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:05:36,357 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:06:33,681 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:06:36,484 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:07:33,843 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:07:36,641 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:08:34,006 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:08:36,741 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:09:34,166 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:09:36,881 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:10:34,259 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:10:37,045 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:11:34,413 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:11:37,142 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:12:34,563 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:12:37,280 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:13:34,652 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:13:37,386 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:14:34,880 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:14:37,544 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:15:35,053 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:15:37,683 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:16:35,295 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:16:37,841 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:17:35,417 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:17:37,971 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:18:35,539 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:18:38,082 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:19:35,694 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:19:38,182 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:20:35,943 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:20:38,336 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:21:36,244 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:21:38,483 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:22:36,402 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:22:38,571 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:23:36,568 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:23:38,810 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:24:45,298 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:24:45,298 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:25:52,417 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:25:52,416 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:26:55,611 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:26:55,611 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:27:59,844 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:27:59,844 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:29:06,406 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:29:06,406 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:30:17,039 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:30:17,039 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:31:19,531 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:31:19,531 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:32:21,122 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:32:21,122 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:33:25,539 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:33:25,539 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:34:31,364 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:34:31,364 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:35:34,085 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:35:34,085 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:36:36,575 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:36:36,575 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:37:40,484 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:37:40,484 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:38:42,573 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:38:42,412 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:39:49,696 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:39:49,696 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:40:59,129 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:40:59,129 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:42:09,204 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:42:09,204 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:43:15,776 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:43:15,776 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:44:20,408 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:44:20,408 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:45:22,890 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:45:22,890 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:46:23,521 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:46:23,521 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:47:24,803 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:47:24,808 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:48:26,084 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:48:26,084 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:49:27,841 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:49:27,842 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:50:32,481 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:50:32,481 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:51:35,695 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:51:35,694 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:52:38,413 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:52:38,412 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:53:41,370 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:53:41,370 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:54:45,451 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:54:45,451 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:55:50,571 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:55:50,572 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:56:56,814 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:56:56,881 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:57:59,854 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:57:59,854 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:59:09,208 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 13:59:09,208 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:00:17,053 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:00:17,053 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:01:20,249 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:01:20,249 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:02:23,527 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:02:23,527 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:03:27,291 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:03:27,291 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:04:36,176 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:04:36,176 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:05:41,120 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:05:41,120 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:06:45,285 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:06:45,285 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:07:49,044 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:07:49,044 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:08:53,612 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:08:53,617 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:10:12,251 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:10:12,251 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:11:20,408 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:11:20,404 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:12:24,565 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:12:24,566 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:13:27,682 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:13:27,617 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:14:28,578 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:14:28,578 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:15:30,176 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:15:30,177 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:16:31,526 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:16:31,526 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:17:33,136 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:17:33,136 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:18:37,050 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:18:37,050 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:19:40,970 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:19:40,970 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:20:42,337 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:20:42,337 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:21:44,967 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:21:44,967 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:22:49,536 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:22:49,536 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:23:53,365 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:23:53,365 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:24:58,160 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:24:58,162 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:25:59,610 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:25:59,610 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:27:04,259 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:27:04,259 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:28:12,402 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:28:12,406 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:29:18,331 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:29:18,332 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:30:27,766 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:30:27,766 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:31:35,770 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:31:35,770 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:32:45,681 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:32:45,681 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:33:53,294 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:33:53,294 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:34:55,931 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:34:55,931 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:35:56,578 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:35:56,579 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:36:57,680 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:36:57,681 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:38:00,889 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:38:00,889 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:39:03,209 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:39:03,210 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:40:05,763 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:40:05,763 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:41:07,683 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:41:07,684 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:42:09,687 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 14:42:09,687 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 15:35:22,802 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 15:35:22,802 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 17:16:32,001 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-05 17:16:32,001 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/client.py", line 3718, in run
+    pubsub.get_message(ignore_subscribe_messages=True,
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/client.py", line 3617, in get_message
+    response = self.parse_response(block=False, timeout=timeout)
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/client.py", line 3503, in parse_response
+    if not block and not conn.can_read(timeout=timeout):
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/connection.py", line 734, in can_read
+    return self._parser.can_read(timeout)
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/connection.py", line 416, in can_read
+    return self.read_from_socket(timeout=timeout,
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/connection.py", line 429, in read_from_socket
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+redis.exceptions.ConnectionError: Connection closed by server.
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+2024-09-06 06:50:49,911 Could not connect to Redis instance: Connection closed by server. Retrying in 1 seconds...
+    self.run()
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/client.py", line 3718, in run
+    pubsub.get_message(ignore_subscribe_messages=True,
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/client.py", line 3617, in get_message
+    response = self.parse_response(block=False, timeout=timeout)
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/client.py", line 3503, in parse_response
+    if not block and not conn.can_read(timeout=timeout):
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/connection.py", line 734, in can_read
+    return self._parser.can_read(timeout)
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/connection.py", line 416, in can_read
+    return self.read_from_socket(timeout=timeout,
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/connection.py", line 429, in read_from_socket
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+redis.exceptions.ConnectionError: Connection closed by server.
+2024-09-06 06:50:50,918 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 2 seconds...
+2024-09-06 06:50:52,929 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 4 seconds...
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/client.py", line 3718, in run
+    pubsub.get_message(ignore_subscribe_messages=True,
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/client.py", line 3617, in get_message
+    response = self.parse_response(block=False, timeout=timeout)
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/client.py", line 3503, in parse_response
+    if not block and not conn.can_read(timeout=timeout):
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/connection.py", line 734, in can_read
+    return self._parser.can_read(timeout)
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/connection.py", line 416, in can_read
+    return self.read_from_socket(timeout=timeout,
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/connection.py", line 429, in read_from_socket
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+redis.exceptions.ConnectionError: Connection closed by server.2024-09-06 06:50:58,959 Could not connect to Redis instance: Connection closed by server. Retrying in 8 seconds...
+
+2024-09-06 06:51:06,978 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 16 seconds...
+2024-09-06 06:51:23,059 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 32 seconds...
+2024-09-06 06:51:55,153 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/client.py", line 3718, in run
+    pubsub.get_message(ignore_subscribe_messages=True,
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/client.py", line 3617, in get_message
+    response = self.parse_response(block=False, timeout=timeout)
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/client.py", line 3503, in parse_response
+    if not block and not conn.can_read(timeout=timeout):
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/connection.py", line 734, in can_read
+    return self._parser.can_read(timeout)
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/connection.py", line 416, in can_read
+    return self.read_from_socket(timeout=timeout,
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/connection.py", line 429, in read_from_socket
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+redis.exceptions.ConnectionError: Connection closed by server.
+2024-09-06 06:52:55,254 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-06 06:53:55,354 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-06 06:54:55,436 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-06 06:55:55,530 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+2024-09-06 06:56:55,591 Could not connect to Redis instance: Error 111 connecting to 127.0.0.1:11002. Connection refused. Retrying in 60 seconds...
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+2024-09-06 07:32:32,363 Worker rq:worker:6fe1985889114b768989ff070e96df70: Redis connection timeout, quitting...
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/connection.py", line 706, in send_packed_command
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/client.py", line 3718, in run
+    sendall(self._sock, item)
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/_compat.py", line 9, in sendall
+    return sock.sendall(*args, **kwargs)
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/home/ubuntu/hrms-bench/apps/frappe/frappe/utils/bench_helper.py", line 109, in <module>
+    main()
+  File "/home/ubuntu/hrms-bench/apps/frappe/frappe/utils/bench_helper.py", line 18, in main
+    click.Group(commands=commands)(prog_name="bench")
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/click/core.py", line 829, in __call__
+    pubsub.get_message(ignore_subscribe_messages=True,
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/client.py", line 3617, in get_message
+    return self.main(*args, **kwargs)
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/click/core.py", line 782, in main
+    rv = self.invoke(ctx)
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/click/core.py", line 1259, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/click/core.py", line 1259, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/click/core.py", line 1066, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/click/core.py", line 610, in invoke
+    return callback(*args, **kwargs)
+  File "/home/ubuntu/hrms-bench/apps/frappe/frappe/commands/scheduler.py", line 200, in start_worker
+    response = self.parse_response(block=False, timeout=timeout)
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/client.py", line 3503, in parse_response
+    if not block and not conn.can_read(timeout=timeout):
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/connection.py", line 734, in can_read
+    return self._parser.can_read(timeout)
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/connection.py", line 416, in can_read
+    return self.read_from_socket(timeout=timeout,
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/connection.py", line 429, in read_from_socket
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+redis.exceptions.ConnectionError: Connection closed by server.
+    start_worker(
+  File "/home/ubuntu/hrms-bench/apps/frappe/frappe/utils/background_jobs.py", line 265, in start_worker
+    worker.work(
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/worker.py", line 434, in work
+    self.teardown()
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/worker.py", line 988, in teardown
+    self.register_death()
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/worker.py", line 774, in register_death
+    p.execute()
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/client.py", line 4019, in execute
+    return execute(conn, stack, raise_on_error)
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/client.py", line 3886, in _execute_transaction
+    connection.send_packed_command(all_cmds)
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/connection.py", line 717, in send_packed_command
+    raise ConnectionError("Error %s while writing to socket. %s." %
+redis.exceptions.ConnectionError: Error 104 while writing to socket. Connection reset by peer.
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:57: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:71: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:57: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:71: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:57: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:71: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:57: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:71: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/client.py", line 3718, in run
+    pubsub.get_message(ignore_subscribe_messages=True,
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/client.py", line 3617, in get_message
+    response = self.parse_response(block=False, timeout=timeout)
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/client.py", line 3503, in parse_response
+    if not block and not conn.can_read(timeout=timeout):
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/connection.py", line 734, in can_read
+    return self._parser.can_read(timeout)
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/connection.py", line 416, in can_read
+    return self.read_from_socket(timeout=timeout,
+  File "/home/ubuntu/hrms-bench/env/lib/python3.10/site-packages/redis/connection.py", line 429, in read_from_socket
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+redis.exceptions.ConnectionError: Connection closed by server.

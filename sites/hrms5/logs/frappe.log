@@ -1,0 +1,33 @@
+2024-09-07 11:38:21,301 ERROR frappe Error while inserting deferred Route History record: 
+Site: hrms5
+Form Dict: {'routes': '[{"creation":"2024-09-07 17:08:05","route":"Workspaces/Accounting"},{"creation":"2024-09-07 17:08:10","route":"Workspaces/Selling"}]', 'cmd': 'frappe.desk.doctype.route_history.route_history.deferred_insert'}
+2024-09-07 11:38:21,303 ERROR frappe Error while inserting deferred Route History record: 
+Site: hrms5
+Form Dict: {'routes': '[{"creation":"2024-09-07 17:08:05","route":"Workspaces/Accounting"},{"creation":"2024-09-07 17:08:10","route":"Workspaces/Selling"}]', 'cmd': 'frappe.desk.doctype.route_history.route_history.deferred_insert'}
+2024-09-07 11:40:19,269 ERROR frappe Error while inserting deferred Route History record: 
+Site: hrms5
+Form Dict: {'routes': '[{"creation":"2024-09-07 17:10:08","route":"Workspaces/Home"}]', 'cmd': 'frappe.desk.doctype.route_history.route_history.deferred_insert'}
+2024-09-07 11:42:12,920 ERROR frappe Error while inserting deferred Route History record: 
+Site: hrms5
+Form Dict: {'routes': '[{"creation":"2024-09-07 17:11:29","route":"Workspaces/Home"},{"creation":"2024-09-07 17:11:30","route":"Workspaces/Users"},{"creation":"2024-09-07 17:11:34","route":"Workspaces/Support"},{"creation":"2024-09-07 17:11:43","route":"Workspaces/Quality"},{"creation":"2024-09-07 17:11:48","route":"Workspaces/Home"},{"creation":"2024-09-07 17:11:52","route":"Workspaces/Tools"},{"creation":"2024-09-07 17:11:55","route":"Workspaces/Build"},{"creation":"2024-09-07 17:12:01","route":"Workspaces/Home"}]', 'cmd': 'frappe.desk.doctype.route_history.route_history.deferred_insert'}
+2024-09-07 11:42:12,921 ERROR frappe Error while inserting deferred Route History record: 
+Site: hrms5
+Form Dict: {'routes': '[{"creation":"2024-09-07 17:11:29","route":"Workspaces/Home"},{"creation":"2024-09-07 17:11:30","route":"Workspaces/Users"},{"creation":"2024-09-07 17:11:34","route":"Workspaces/Support"},{"creation":"2024-09-07 17:11:43","route":"Workspaces/Quality"},{"creation":"2024-09-07 17:11:48","route":"Workspaces/Home"},{"creation":"2024-09-07 17:11:52","route":"Workspaces/Tools"},{"creation":"2024-09-07 17:11:55","route":"Workspaces/Build"},{"creation":"2024-09-07 17:12:01","route":"Workspaces/Home"}]', 'cmd': 'frappe.desk.doctype.route_history.route_history.deferred_insert'}
+2024-09-07 11:42:12,921 ERROR frappe Error while inserting deferred Route History record: 
+Site: hrms5
+Form Dict: {'routes': '[{"creation":"2024-09-07 17:11:29","route":"Workspaces/Home"},{"creation":"2024-09-07 17:11:30","route":"Workspaces/Users"},{"creation":"2024-09-07 17:11:34","route":"Workspaces/Support"},{"creation":"2024-09-07 17:11:43","route":"Workspaces/Quality"},{"creation":"2024-09-07 17:11:48","route":"Workspaces/Home"},{"creation":"2024-09-07 17:11:52","route":"Workspaces/Tools"},{"creation":"2024-09-07 17:11:55","route":"Workspaces/Build"},{"creation":"2024-09-07 17:12:01","route":"Workspaces/Home"}]', 'cmd': 'frappe.desk.doctype.route_history.route_history.deferred_insert'}
+2024-09-07 11:42:12,922 ERROR frappe Error while inserting deferred Route History record: 
+Site: hrms5
+Form Dict: {'routes': '[{"creation":"2024-09-07 17:11:29","route":"Workspaces/Home"},{"creation":"2024-09-07 17:11:30","route":"Workspaces/Users"},{"creation":"2024-09-07 17:11:34","route":"Workspaces/Support"},{"creation":"2024-09-07 17:11:43","route":"Workspaces/Quality"},{"creation":"2024-09-07 17:11:48","route":"Workspaces/Home"},{"creation":"2024-09-07 17:11:52","route":"Workspaces/Tools"},{"creation":"2024-09-07 17:11:55","route":"Workspaces/Build"},{"creation":"2024-09-07 17:12:01","route":"Workspaces/Home"}]', 'cmd': 'frappe.desk.doctype.route_history.route_history.deferred_insert'}
+2024-09-07 11:42:12,922 ERROR frappe Error while inserting deferred Route History record: 
+Site: hrms5
+Form Dict: {'routes': '[{"creation":"2024-09-07 17:11:29","route":"Workspaces/Home"},{"creation":"2024-09-07 17:11:30","route":"Workspaces/Users"},{"creation":"2024-09-07 17:11:34","route":"Workspaces/Support"},{"creation":"2024-09-07 17:11:43","route":"Workspaces/Quality"},{"creation":"2024-09-07 17:11:48","route":"Workspaces/Home"},{"creation":"2024-09-07 17:11:52","route":"Workspaces/Tools"},{"creation":"2024-09-07 17:11:55","route":"Workspaces/Build"},{"creation":"2024-09-07 17:12:01","route":"Workspaces/Home"}]', 'cmd': 'frappe.desk.doctype.route_history.route_history.deferred_insert'}
+2024-09-07 11:42:12,922 ERROR frappe Error while inserting deferred Route History record: 
+Site: hrms5
+Form Dict: {'routes': '[{"creation":"2024-09-07 17:11:29","route":"Workspaces/Home"},{"creation":"2024-09-07 17:11:30","route":"Workspaces/Users"},{"creation":"2024-09-07 17:11:34","route":"Workspaces/Support"},{"creation":"2024-09-07 17:11:43","route":"Workspaces/Quality"},{"creation":"2024-09-07 17:11:48","route":"Workspaces/Home"},{"creation":"2024-09-07 17:11:52","route":"Workspaces/Tools"},{"creation":"2024-09-07 17:11:55","route":"Workspaces/Build"},{"creation":"2024-09-07 17:12:01","route":"Workspaces/Home"}]', 'cmd': 'frappe.desk.doctype.route_history.route_history.deferred_insert'}
+2024-09-07 11:42:12,924 ERROR frappe Error while inserting deferred Route History record: 
+Site: hrms5
+Form Dict: {'routes': '[{"creation":"2024-09-07 17:11:29","route":"Workspaces/Home"},{"creation":"2024-09-07 17:11:30","route":"Workspaces/Users"},{"creation":"2024-09-07 17:11:34","route":"Workspaces/Support"},{"creation":"2024-09-07 17:11:43","route":"Workspaces/Quality"},{"creation":"2024-09-07 17:11:48","route":"Workspaces/Home"},{"creation":"2024-09-07 17:11:52","route":"Workspaces/Tools"},{"creation":"2024-09-07 17:11:55","route":"Workspaces/Build"},{"creation":"2024-09-07 17:12:01","route":"Workspaces/Home"}]', 'cmd': 'frappe.desk.doctype.route_history.route_history.deferred_insert'}
+2024-09-07 11:42:12,924 ERROR frappe Error while inserting deferred Route History record: 
+Site: hrms5
+Form Dict: {'routes': '[{"creation":"2024-09-07 17:11:29","route":"Workspaces/Home"},{"creation":"2024-09-07 17:11:30","route":"Workspaces/Users"},{"creation":"2024-09-07 17:11:34","route":"Workspaces/Support"},{"creation":"2024-09-07 17:11:43","route":"Workspaces/Quality"},{"creation":"2024-09-07 17:11:48","route":"Workspaces/Home"},{"creation":"2024-09-07 17:11:52","route":"Workspaces/Tools"},{"creation":"2024-09-07 17:11:55","route":"Workspaces/Build"},{"creation":"2024-09-07 17:12:01","route":"Workspaces/Home"}]', 'cmd': 'frappe.desk.doctype.route_history.route_history.deferred_insert'}

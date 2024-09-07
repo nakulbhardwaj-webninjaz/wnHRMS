@@ -1,0 +1,219 @@
+2024-09-05 04:11:34,596 DEBUG cd hrms-bench && python3 -m venv env
+2024-09-05 04:11:38,453 DEBUG cd hrms-bench && /home/ubuntu/hrms-bench/env/bin/python -m pip install --quiet --upgrade pip
+2024-09-05 04:11:40,120 DEBUG cd hrms-bench && /home/ubuntu/hrms-bench/env/bin/python -m pip install --quiet wheel
+2024-09-05 04:11:41,338 LOG Getting frappe
+2024-09-05 04:11:41,339 DEBUG cd hrms-bench/apps && git clone https://github.com/frappe/frappe.git --branch version-14 --depth 1 --origin upstream
+2024-09-05 04:11:47,069 LOG Installing frappe
+2024-09-05 04:11:47,069 DEBUG cd /home/ubuntu/hrms-bench && /home/ubuntu/hrms-bench/env/bin/python -m pip install --quiet --upgrade -e /home/ubuntu/hrms-bench/apps/frappe 
+2024-09-05 04:12:32,277 DEBUG cd /home/ubuntu/hrms-bench/apps/frappe && yarn install --check-files
+2024-09-05 04:13:00,297 DEBUG cd /home/ubuntu/hrms-bench && sudo supervisorctl restart frappe:
+2024-09-05 04:13:00,604 WARNING cd /home/ubuntu/hrms-bench && sudo supervisorctl restart frappe: executed with exit code 2
+2024-09-05 04:13:00,604 WARNING restarting supervisor group `frappe:` failed. Use `bench restart` to retry.
+2024-09-05 04:13:00,605 DEBUG cd hrms-bench && bench build
+2024-09-05 04:13:00,895 INFO /home/ubuntu/frappe-bench-env/bin/bench build
+2024-09-05 04:13:24,149 LOG setting up backups
+2024-09-05 04:13:24,177 LOG backups were set up
+2024-09-05 04:13:24,177 INFO Bench hrms-bench initialized
+2024-09-05 04:14:19,911 INFO /home/ubuntu/frappe-bench-env/bin/bench new-site hrms5
+2024-09-05 04:16:02,040 INFO /home/ubuntu/frappe-bench-env/bin/bench start
+2024-09-05 04:16:02,878 INFO /home/ubuntu/frappe-bench-env/bin/bench watch
+2024-09-05 04:16:02,881 INFO /home/ubuntu/frappe-bench-env/bin/bench serve --port 8002
+2024-09-05 04:16:02,883 INFO /home/ubuntu/frappe-bench-env/bin/bench schedule
+2024-09-05 04:16:02,884 INFO /home/ubuntu/frappe-bench-env/bin/bench worker
+2024-09-05 04:35:39,979 INFO /home/ubuntu/frappe-bench-env/bin/bench start
+2024-09-05 04:35:40,821 INFO /home/ubuntu/frappe-bench-env/bin/bench watch
+2024-09-05 04:35:40,829 INFO /home/ubuntu/frappe-bench-env/bin/bench schedule
+2024-09-05 04:35:40,835 INFO /home/ubuntu/frappe-bench-env/bin/bench serve --port 8002 --host 0.0.0.0
+2024-09-05 04:35:40,843 INFO /home/ubuntu/frappe-bench-env/bin/bench worker
+2024-09-05 04:40:22,116 INFO /home/ubuntu/frappe-bench-env/bin/bench start
+2024-09-05 04:40:22,775 INFO /home/ubuntu/frappe-bench-env/bin/bench serve --port 8002
+2024-09-05 04:40:22,776 INFO /home/ubuntu/frappe-bench-env/bin/bench schedule
+2024-09-05 04:40:22,779 INFO /home/ubuntu/frappe-bench-env/bin/bench watch
+2024-09-05 04:40:22,782 INFO /home/ubuntu/frappe-bench-env/bin/bench worker
+2024-09-05 05:23:33,369 INFO /home/ubuntu/frappe-bench-env/bin/bench start
+2024-09-05 05:24:31,375 INFO /home/ubuntu/frappe-bench-env/bin/bench start
+2024-09-05 05:25:22,805 INFO /home/ubuntu/frappe-bench-env/bin/bench start
+2024-09-05 05:25:23,688 INFO /home/ubuntu/frappe-bench-env/bin/bench serve --port 8002
+2024-09-05 05:25:23,714 INFO /home/ubuntu/frappe-bench-env/bin/bench worker
+2024-09-05 05:25:23,715 INFO /home/ubuntu/frappe-bench-env/bin/bench watch
+2024-09-05 05:25:23,716 INFO /home/ubuntu/frappe-bench-env/bin/bench schedule
+2024-09-05 05:26:19,233 INFO /home/ubuntu/frappe-bench-env/bin/bench start
+2024-09-05 05:26:20,117 INFO /home/ubuntu/frappe-bench-env/bin/bench serve --port 8002
+2024-09-05 05:26:20,159 INFO /home/ubuntu/frappe-bench-env/bin/bench worker
+2024-09-05 05:26:20,163 INFO /home/ubuntu/frappe-bench-env/bin/bench watch
+2024-09-05 05:26:20,223 INFO /home/ubuntu/frappe-bench-env/bin/bench schedule
+2024-09-05 06:16:05,509 INFO /home/ubuntu/frappe-bench-env/bin/bench start
+2024-09-05 06:16:06,399 INFO /home/ubuntu/frappe-bench-env/bin/bench serve --port 8002
+2024-09-05 06:16:06,401 INFO /home/ubuntu/frappe-bench-env/bin/bench schedule
+2024-09-05 06:16:06,401 INFO /home/ubuntu/frappe-bench-env/bin/bench watch
+2024-09-05 06:16:06,402 INFO /home/ubuntu/frappe-bench-env/bin/bench worker
+2024-09-05 06:35:02,129 INFO /home/ubuntu/frappe-bench-env/bin/bench --site hrms5 status
+2024-09-05 06:48:18,668 INFO /home/ubuntu/frappe-bench-env/bin/bench start
+2024-09-05 06:48:19,609 INFO /home/ubuntu/frappe-bench-env/bin/bench serve --port 8002
+2024-09-05 06:48:19,622 INFO /home/ubuntu/frappe-bench-env/bin/bench watch
+2024-09-05 06:48:19,634 INFO /home/ubuntu/frappe-bench-env/bin/bench worker
+2024-09-05 06:48:19,664 INFO /home/ubuntu/frappe-bench-env/bin/bench schedule
+2024-09-05 07:34:36,217 INFO /home/ubuntu/frappe-bench-env/bin/bench start
+2024-09-05 07:38:26,986 INFO /home/ubuntu/frappe-bench-env/bin/bench start
+2024-09-05 07:40:13,080 INFO /home/ubuntu/frappe-bench-env/bin/bench start
+2024-09-05 07:40:13,825 INFO /home/ubuntu/frappe-bench-env/bin/bench watch
+2024-09-05 07:40:13,834 INFO /home/ubuntu/frappe-bench-env/bin/bench schedule
+2024-09-05 07:40:13,866 INFO /home/ubuntu/frappe-bench-env/bin/bench worker
+2024-09-05 07:40:13,873 INFO /home/ubuntu/frappe-bench-env/bin/bench serve --port 8002
+2024-09-05 07:56:32,474 INFO /home/ubuntu/frappe-bench-env/bin/bench --site hrms5 status
+2024-09-05 07:57:05,721 INFO /home/ubuntu/frappe-bench-env/bin/bench update
+2024-09-05 07:57:06,792 WARNING shallow_clone is set in your bench config.
+However without passing the --reset flag, your repositories will be unshallowed.
+To avoid this, cancel this operation and run `bench update --reset`.
+
+Consider the consequences of `git reset --hard` on your apps before you run that.
+To avoid seeing this warning, set shallow_clone to false in your common_site_config.json
+		
+2024-09-05 07:57:18,662 DEBUG cd /home/ubuntu/hrms-bench/apps/frappe && git fetch upstream --unshallow
+2024-09-05 08:00:49,124 LOG pulling frappe
+2024-09-05 08:00:49,126 DEBUG cd /home/ubuntu/hrms-bench/apps/frappe && git pull  upstream version-14
+2024-09-05 08:00:50,042 DEBUG cd /home/ubuntu/hrms-bench/apps/frappe && find . -name "*.pyc" -delete
+2024-09-05 08:00:55,867 DEBUG cd /home/ubuntu/hrms-bench && /home/ubuntu/hrms-bench/env/bin/python -m pip install --quiet --upgrade pip
+2024-09-05 08:01:05,215 LOG Installing frappe
+2024-09-05 08:01:05,216 DEBUG cd /home/ubuntu/hrms-bench && /home/ubuntu/hrms-bench/env/bin/python -m pip install --quiet --upgrade -e /home/ubuntu/hrms-bench/apps/frappe 
+2024-09-05 08:01:27,520 DEBUG cd /home/ubuntu/hrms-bench/apps/frappe && yarn install --check-files
+2024-09-05 08:08:24,220 INFO /home/ubuntu/frappe-bench-env/bin/bench start
+2024-09-05 08:08:25,103 INFO /home/ubuntu/frappe-bench-env/bin/bench watch
+2024-09-05 08:08:25,107 INFO /home/ubuntu/frappe-bench-env/bin/bench serve --port 8002
+2024-09-05 08:08:25,114 INFO /home/ubuntu/frappe-bench-env/bin/bench schedule
+2024-09-05 08:08:25,123 INFO /home/ubuntu/frappe-bench-env/bin/bench worker
+2024-09-05 08:10:27,594 INFO /home/ubuntu/frappe-bench-env/bin/bench config show
+2024-09-05 08:10:27,600 WARNING /home/ubuntu/frappe-bench-env/bin/bench config show executed with exit code 2
+2024-09-05 08:25:53,527 INFO /home/ubuntu/frappe-bench-env/bin/bench start
+2024-09-05 08:25:54,512 INFO /home/ubuntu/frappe-bench-env/bin/bench worker
+2024-09-05 08:25:54,532 INFO /home/ubuntu/frappe-bench-env/bin/bench watch
+2024-09-05 08:25:54,540 INFO /home/ubuntu/frappe-bench-env/bin/bench schedule
+2024-09-05 08:25:54,556 INFO /home/ubuntu/frappe-bench-env/bin/bench serve --port 8002
+2024-09-05 08:28:26,409 INFO /home/ubuntu/frappe-bench-env/bin/bench --site hrms5 list
+2024-09-05 09:43:23,852 INFO /home/ubuntu/frappe-bench-env/bin/bench start
+2024-09-05 09:44:41,657 INFO /home/ubuntu/frappe-bench-env/bin/bench start
+2024-09-05 09:45:05,624 INFO /home/ubuntu/frappe-bench-env/bin/bench start
+2024-09-05 09:45:24,445 INFO /home/ubuntu/frappe-bench-env/bin/bench start
+2024-09-05 09:46:35,591 INFO /home/ubuntu/frappe-bench-env/bin/bench start
+2024-09-05 09:47:41,987 INFO /home/ubuntu/frappe-bench-env/bin/bench start
+2024-09-05 09:51:00,346 INFO /home/ubuntu/frappe-bench-env/bin/bench start
+2024-09-05 09:52:06,736 INFO /home/ubuntu/frappe-bench-env/bin/bench start
+2024-09-05 09:52:07,597 INFO /home/ubuntu/frappe-bench-env/bin/bench serve --port 8002
+2024-09-05 09:52:07,603 INFO /home/ubuntu/frappe-bench-env/bin/bench watch
+2024-09-05 09:52:07,606 INFO /home/ubuntu/frappe-bench-env/bin/bench worker
+2024-09-05 09:52:07,612 INFO /home/ubuntu/frappe-bench-env/bin/bench schedule
+2024-09-05 10:00:42,313 INFO /home/ubuntu/frappe-bench-env/bin/bench --site hrms5 set-admin-password nakul
+2024-09-05 10:01:39,925 INFO /home/ubuntu/frappe-bench-env/bin/bench --site hrms5 execute frappe.core.doctype.user.user.get_all_users
+2024-09-05 10:01:57,766 INFO /home/ubuntu/frappe-bench-env/bin/bench --site hrms5 execute frappe.core.doctype.user.user.get_all_roles
+2024-09-05 10:02:33,298 INFO /home/ubuntu/frappe-bench-env/bin/bench --site hrms5 set-config admin_email Administrator
+2024-09-05 10:02:38,389 INFO /home/ubuntu/frappe-bench-env/bin/bench --site hrms5 execute frappe.core.doctype.user.user.get_all_users
+2024-09-05 10:03:27,550 INFO /home/ubuntu/frappe-bench-env/bin/bench --site hrms5 mysql
+2024-09-05 10:09:33,058 INFO /home/ubuntu/frappe-bench-env/bin/bench --site hrms5 set-admin-password nakul
+2024-09-05 10:52:17,328 INFO /home/ubuntu/frappe-bench-env/bin/bench start
+2024-09-05 10:52:59,382 INFO /home/ubuntu/frappe-bench-env/bin/bench start
+2024-09-05 10:53:21,941 INFO /home/ubuntu/frappe-bench-env/bin/bench start
+2024-09-05 10:53:23,020 INFO /home/ubuntu/frappe-bench-env/bin/bench serve --port 8002
+2024-09-05 10:53:23,042 INFO /home/ubuntu/frappe-bench-env/bin/bench watch
+2024-09-05 10:53:23,047 INFO /home/ubuntu/frappe-bench-env/bin/bench worker
+2024-09-05 10:53:23,056 INFO /home/ubuntu/frappe-bench-env/bin/bench schedule
+2024-09-05 10:59:27,497 INFO /home/ubuntu/frappe-bench-env/bin/bench start
+2024-09-05 10:59:28,446 INFO /home/ubuntu/frappe-bench-env/bin/bench schedule
+2024-09-05 10:59:28,471 INFO /home/ubuntu/frappe-bench-env/bin/bench watch
+2024-09-05 10:59:28,509 INFO /home/ubuntu/frappe-bench-env/bin/bench serve --port 8002
+2024-09-05 10:59:28,532 INFO /home/ubuntu/frappe-bench-env/bin/bench worker
+2024-09-05 12:00:03,771 INFO /home/ubuntu/frappe-bench-env/bin/bench --verbose --site all backup
+2024-09-06 00:00:02,404 INFO /home/ubuntu/frappe-bench-env/bin/bench --verbose --site all backup
+2024-09-06 04:24:01,896 INFO /home/ubuntu/frappe-bench-env/bin/bench set-url-root hrms5 http://13.200.235.90:8002
+2024-09-06 04:24:20,005 INFO /home/ubuntu/frappe-bench-env/bin/bench start
+2024-09-06 04:24:20,894 INFO /home/ubuntu/frappe-bench-env/bin/bench serve --port 8002
+2024-09-06 04:24:20,906 INFO /home/ubuntu/frappe-bench-env/bin/bench schedule
+2024-09-06 04:24:20,914 INFO /home/ubuntu/frappe-bench-env/bin/bench worker
+2024-09-06 04:24:20,938 INFO /home/ubuntu/frappe-bench-env/bin/bench watch
+2024-09-06 04:30:36,219 INFO /home/ubuntu/frappe-bench-env/bin/bench setup requirements
+2024-09-06 04:30:36,239 DEBUG /home/ubuntu/hrms-bench/env/bin/python -m pip install --quiet --upgrade pip
+2024-09-06 04:30:37,931 LOG Installing frappe
+2024-09-06 04:30:37,931 DEBUG cd /home/ubuntu/hrms-bench && /home/ubuntu/hrms-bench/env/bin/python -m pip install --quiet --upgrade -e /home/ubuntu/hrms-bench/apps/frappe 
+2024-09-06 04:30:41,681 DEBUG cd /home/ubuntu/hrms-bench/apps/frappe && yarn install --check-files
+2024-09-06 04:35:54,172 INFO /home/ubuntu/frappe-bench-env/bin/bench setup requirements --node
+2024-09-06 04:35:54,509 DEBUG cd ./apps/frappe && yarn install --check-files
+2024-09-06 05:13:44,880 INFO /home/ubuntu/frappe-bench-env/bin/bench start
+2024-09-06 05:13:46,337 INFO /home/ubuntu/frappe-bench-env/bin/bench schedule
+2024-09-06 05:13:46,349 INFO /home/ubuntu/frappe-bench-env/bin/bench worker
+2024-09-06 05:13:46,379 INFO /home/ubuntu/frappe-bench-env/bin/bench serve --port 8002
+2024-09-06 05:13:46,404 INFO /home/ubuntu/frappe-bench-env/bin/bench watch
+2024-09-06 06:00:01,746 INFO /home/ubuntu/frappe-bench-env/bin/bench --verbose --site all backup
+2024-09-06 06:46:36,543 INFO /home/ubuntu/frappe-bench-env/bin/bench start
+2024-09-06 06:48:26,267 INFO /home/ubuntu/frappe-bench-env/bin/bench start
+2024-09-06 06:50:55,154 INFO /home/ubuntu/frappe-bench-env/bin/bench start
+2024-09-06 06:50:56,175 INFO /home/ubuntu/frappe-bench-env/bin/bench serve --port 8002
+2024-09-06 06:50:56,188 INFO /home/ubuntu/frappe-bench-env/bin/bench schedule
+2024-09-06 06:50:56,196 INFO /home/ubuntu/frappe-bench-env/bin/bench watch
+2024-09-06 06:50:56,204 INFO /home/ubuntu/frappe-bench-env/bin/bench worker
+2024-09-06 06:52:22,940 INFO /home/ubuntu/frappe-bench-env/bin/bench start
+2024-09-06 06:52:23,940 INFO /home/ubuntu/frappe-bench-env/bin/bench serve --port 8002
+2024-09-06 06:52:24,027 INFO /home/ubuntu/frappe-bench-env/bin/bench watch
+2024-09-06 06:52:24,087 INFO /home/ubuntu/frappe-bench-env/bin/bench worker
+2024-09-06 06:52:24,144 INFO /home/ubuntu/frappe-bench-env/bin/bench schedule
+2024-09-06 06:57:04,023 INFO /home/ubuntu/frappe-bench-env/bin/bench start
+2024-09-06 06:57:04,777 INFO /home/ubuntu/frappe-bench-env/bin/bench watch
+2024-09-06 06:57:04,780 INFO /home/ubuntu/frappe-bench-env/bin/bench serve --port 8002
+2024-09-06 06:57:04,781 INFO /home/ubuntu/frappe-bench-env/bin/bench schedule
+2024-09-06 06:57:04,798 INFO /home/ubuntu/frappe-bench-env/bin/bench worker
+2024-09-06 18:00:02,348 INFO /home/ubuntu/frappe-bench-env/bin/bench --verbose --site all backup
+2024-09-07 00:00:02,285 INFO /home/ubuntu/frappe-bench-env/bin/bench --verbose --site all backup
+2024-09-07 06:00:02,602 INFO /home/ubuntu/frappe-bench-env/bin/bench --verbose --site all backup
+2024-09-07 08:18:36,465 INFO /home/ubuntu/frappe-bench-env/bin/bench start
+2024-09-07 08:18:37,158 INFO /home/ubuntu/frappe-bench-env/bin/bench serve --port 8002
+2024-09-07 08:18:37,160 INFO /home/ubuntu/frappe-bench-env/bin/bench watch
+2024-09-07 08:18:37,169 INFO /home/ubuntu/frappe-bench-env/bin/bench schedule
+2024-09-07 08:18:37,171 INFO /home/ubuntu/frappe-bench-env/bin/bench worker
+2024-09-07 08:18:59,519 INFO /home/ubuntu/frappe-bench-env/bin/bench start
+2024-09-07 08:19:00,351 INFO /home/ubuntu/frappe-bench-env/bin/bench worker
+2024-09-07 08:19:00,378 INFO /home/ubuntu/frappe-bench-env/bin/bench watch
+2024-09-07 08:19:00,409 INFO /home/ubuntu/frappe-bench-env/bin/bench schedule
+2024-09-07 08:19:00,411 INFO /home/ubuntu/frappe-bench-env/bin/bench serve --port 8002
+2024-09-07 08:20:26,623 INFO /home/ubuntu/frappe-bench-env/bin/bench --site hrms5 add-to-hosts
+2024-09-07 08:26:23,348 INFO /home/ubuntu/frappe-bench-env/bin/bench --site hrms5 serve
+2024-09-07 08:43:06,239 INFO /home/ubuntu/frappe-bench-env/bin/bench get-app hrms
+2024-09-07 08:43:06,722 LOG Getting hrms
+2024-09-07 08:43:06,722 DEBUG cd ./apps && git clone https://github.com/frappe/hrms.git  --depth 1 --origin upstream
+2024-09-07 08:43:08,570 LOG Installing hrms
+2024-09-07 08:43:08,570 DEBUG cd /home/ubuntu/hrms-bench && /home/ubuntu/hrms-bench/env/bin/python -m pip install --quiet --upgrade -e /home/ubuntu/hrms-bench/apps/hrms 
+2024-09-07 08:43:10,604 DEBUG cd /home/ubuntu/hrms-bench/apps/hrms && yarn install --check-files
+2024-09-07 08:44:26,114 DEBUG bench build --app hrms
+2024-09-07 08:44:26,546 INFO /home/ubuntu/frappe-bench-env/bin/bench build --app hrms
+2024-09-07 09:56:51,984 INFO /home/ubuntu/frappe-bench-env/bin/bench get-app hrms
+2024-09-07 09:57:06,701 LOG Installing hrms
+2024-09-07 09:57:06,703 DEBUG cd /home/ubuntu/hrms-bench && /home/ubuntu/hrms-bench/env/bin/python -m pip install --quiet --upgrade -e /home/ubuntu/hrms-bench/apps/hrms 
+2024-09-07 09:57:10,661 DEBUG cd /home/ubuntu/hrms-bench/apps/hrms && yarn install --check-files
+2024-09-07 09:57:28,373 DEBUG bench build --app hrms
+2024-09-07 09:57:28,494 INFO /home/ubuntu/frappe-bench-env/bin/bench build --app hrms
+2024-09-07 09:58:16,113 DEBUG cd /home/ubuntu/hrms-bench && sudo supervisorctl restart frappe:
+2024-09-07 09:58:16,300 WARNING cd /home/ubuntu/hrms-bench && sudo supervisorctl restart frappe: executed with exit code 2
+2024-09-07 09:58:16,300 WARNING restarting supervisor group `frappe:` failed. Use `bench restart` to retry.
+2024-09-07 09:58:35,107 INFO /home/ubuntu/frappe-bench-env/bin/bench --site hrms5 install-app hrms
+2024-09-07 09:59:04,326 INFO /home/ubuntu/frappe-bench-env/bin/bench --site hrms5 install-app hrms
+2024-09-07 10:00:22,342 INFO /home/ubuntu/frappe-bench-env/bin/bench get-app erpnext --branch version-14
+2024-09-07 10:00:22,732 LOG Getting erpnext
+2024-09-07 10:00:22,732 DEBUG cd ./apps && git clone https://github.com/frappe/erpnext.git --branch version-14 --depth 1 --origin upstream
+2024-09-07 10:00:27,699 LOG Installing erpnext
+2024-09-07 10:00:27,700 DEBUG cd /home/ubuntu/hrms-bench && /home/ubuntu/hrms-bench/env/bin/python -m pip install --quiet --upgrade -e /home/ubuntu/hrms-bench/apps/erpnext 
+2024-09-07 10:01:00,775 DEBUG cd /home/ubuntu/hrms-bench/apps/erpnext && yarn install --check-files
+2024-09-07 10:01:01,982 DEBUG bench build --app erpnext
+2024-09-07 10:01:02,091 INFO /home/ubuntu/frappe-bench-env/bin/bench build --app erpnext
+2024-09-07 10:01:10,786 DEBUG cd /home/ubuntu/hrms-bench && sudo supervisorctl restart frappe:
+2024-09-07 10:01:10,977 WARNING cd /home/ubuntu/hrms-bench && sudo supervisorctl restart frappe: executed with exit code 2
+2024-09-07 10:01:10,977 WARNING restarting supervisor group `frappe:` failed. Use `bench restart` to retry.
+2024-09-07 10:01:33,227 INFO /home/ubuntu/frappe-bench-env/bin/bench --site hrms5 install-app erpnext
+2024-09-07 10:03:01,189 INFO /home/ubuntu/frappe-bench-env/bin/bench --site hrms5 list-apps
+2024-09-07 10:03:45,060 INFO /home/ubuntu/frappe-bench-env/bin/bench --site hrms5 reinstall
+2024-09-07 10:03:55,051 INFO /home/ubuntu/frappe-bench-env/bin/bench --site hrms5 reinstall
+2024-09-07 10:05:17,367 INFO /home/ubuntu/frappe-bench-env/bin/bench --site hrms5 install-app erpnext
+2024-09-07 10:10:43,010 INFO /home/ubuntu/frappe-bench-env/bin/bench --site hrms5 list-apps
+2024-09-07 10:10:59,298 INFO /home/ubuntu/frappe-bench-env/bin/bench --site hrms5 install-app hrms
+2024-09-07 11:26:09,088 INFO /home/ubuntu/frappe-bench-env/bin/bench --site hrms5 listt-apps
+2024-09-07 11:26:12,816 INFO /home/ubuntu/frappe-bench-env/bin/bench --site hrms5 listt-app
+2024-09-07 11:26:17,058 INFO /home/ubuntu/frappe-bench-env/bin/bench --site hrms5 list-app
+2024-09-07 11:26:19,915 INFO /home/ubuntu/frappe-bench-env/bin/bench --site hrms5 list-apps
+2024-09-07 11:26:38,914 INFO /home/ubuntu/frappe-bench-env/bin/bench --site hrms5 install-app hrms
+2024-09-07 11:27:20,925 INFO /home/ubuntu/frappe-bench-env/bin/bench --site hrms5 serve

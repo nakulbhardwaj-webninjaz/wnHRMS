@@ -1,0 +1,10 @@
+{
+ "admin_email": "Administrator",
+ "db_name": "_4c031174444b6495",
+ "db_password": "tRmjmnRTYXVAyqIM",
+ "db_type": "mariadb",
+ "host_name": "http://13.200.235.90:8002",
+ "user_type_doctype_limit": {
+  "employee_self_service": 40
+ }
+}
